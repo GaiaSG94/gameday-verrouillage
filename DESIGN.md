@@ -1,3 +1,3 @@
-# DESIGN - gameday-p08
+# DESIGN - Verrouillage
 
-> A completer (Claude, prompt 07-design).
+Journal de design : [`G-DESIGN/DESIGN.md`](G-DESIGN/DESIGN.md) (style « Relief » validé le 2026-11-18 ; 4 pages validées, style verrouillé).
